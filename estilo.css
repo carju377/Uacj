@@ -1,0 +1,33 @@
+body{
+    background: #fbdc97;
+}
+
+nav {
+    width: auto; height: 5%;
+    display: block;
+    margin: 0px 50px;
+    border-radius: 100%;
+}
+
+.enlace{
+    background: #4CAF50;
+    width: 100px;height: 50px;
+}
+
+#uno{
+    justify-content: space-between;
+    width: 400px;
+    display: flex;
+}
+
+#dos{
+    justify-content: space-between;
+    width: 450px;
+    display: flex;
+}
+
+#tres{
+    justify-content: space-between;
+    width: 450px;
+    display: flex;
+}
